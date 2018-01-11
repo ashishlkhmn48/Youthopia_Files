@@ -1,0 +1,171 @@
+{
+"cultural": 
+[
+{
+"eventname" : "AMPCHAOS",
+"subheading" : "BATTLE OF BANDS",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/battleofbands.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com"
+},
+
+{
+"eventname" : "FASHIONISTA",
+"subheading" : "FASHION EVENT",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/fashionista.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/fashionista"
+},
+
+{
+"eventname" : "FESTIN BEATS",
+"subheading" : "DANCING EVENT",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/festinbeats.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/festinbeats"
+},
+
+{
+"eventname" : "ODEUM",
+"subheading" : "THEATRE EVENT",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/odeum.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/odeum"
+}
+],
+
+"technical":
+[
+
+{
+"eventname" : "COMBAT-DE-ROBO",
+"subheading" : "ROBOWARS",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/combatderobo.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/combatderobo"
+},
+
+{
+"eventname" : "CODING RAMPAGE",
+"subheading" : "CODING EVENT",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/coding.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/codingrampage"
+},
+
+{
+"eventname" : "SHERLOCKED",
+"subheading" : "TREASURE HUNT",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/sherlocked.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/sherlocked"
+},
+
+{
+"eventname" : "FULL THROTTLE",
+"subheading" : "ROBO RACE",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/roborace.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/fullthrottle"
+},
+
+{
+"eventname" : "BRIDGE-DE-GAP",
+"subheading" : "BRIDGE CONSTRUCTION",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/bridgedegap.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/bridgedegap"
+},
+
+{
+"eventname" : "VASTU NIRMAN",
+"subheading" : "BUILDING MODELLING EVENT",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/vastunirman.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/vastunirman"
+}
+
+],
+
+
+"gaming":
+[
+{
+"eventname" : "FIFA 15",
+"subheading" : "SINGLE PLAYER GAMING",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/fifa.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/fifa"
+},
+
+{
+"eventname" : "COUNTER STRIKE",
+"subheading" : "LAN GAMING",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/counterstrike.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/counterstrike"
+},
+
+{
+"eventname" : "NEED FOR SPEED",
+"subheading" : "SINGLE PLAYER GAMING",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/nfs.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/nfs"
+}
+
+],
+
+"informal":
+[
+{
+"eventname" : "DIT'S GOT TALENT",
+"subheading" : "TALENT EVENT",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/gottalent.png",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/gottalent"
+},
+
+{
+"eventname" : "KINGSHIPS SUSPENSION",
+"subheading" : "LIVE CHESS",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/chess.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/chess"
+},
+
+{
+"eventname" : "GULLY CRICKET",
+"subheading" : "STREET CRICKET",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/cricket.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/cricket"
+},
+
+{
+"eventname" : "FUTSAL",
+"subheading" : "STREET FOOTBALL",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/futsal.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/futsal"
+}
+
+],
+
+"literary":
+[
+{
+"eventname" : "FINE ARTS",
+"subheading" : "CRAFT EVENT",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/painting.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/painting"
+},
+
+{
+"eventname" : "CREATIVE WRITING",
+"subheading" : "WRITING EVENT",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/writing.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/writing"
+},
+
+{
+"eventname" : "FANTASY INC.",
+"subheading" : "IPL AUCTION EVENT",
+"piclink" : "http://ashishlakhmani.000webhostapp.com/zyro/gallery/ipl.jpg",
+"detailslink" : "https://ashishlakhmani.000webhostapp.com/ipl"
+}
+
+],
+
+"number":
+[
+{
+"numberofgallerypics" : 33,
+"numberofschedulepics" : 3
+}
+]
+
+}
